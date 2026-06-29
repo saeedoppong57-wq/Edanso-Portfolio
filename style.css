@@ -345,7 +345,6 @@ s{
      .main,
      .about,
      .main-exp{
-         max-width: 1200px;
          margin-left: auto;
          margin-right: auto;
      }
